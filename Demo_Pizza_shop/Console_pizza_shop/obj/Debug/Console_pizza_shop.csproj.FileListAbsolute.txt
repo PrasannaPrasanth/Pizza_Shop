@@ -1,0 +1,14 @@
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\Console_pizza_shop.exe.config
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\Console_pizza_shop.exe
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\Console_pizza_shop.pdb
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\Demo_Pizza_shop.dll
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\Demo_Pizza_shop.pdb
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\obj\Debug\Console_pizza_shop.csprojResolveAssemblyReference.cache
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\obj\Debug\Console_pizza_shop.exe
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\obj\Debug\Console_pizza_shop.pdb
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\mscorlib.dll
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\normidna.nlp
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\normnfc.nlp
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\normnfd.nlp
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\normnfkc.nlp
+C:\Users\DEEPAK\Documents\Visual Studio 2012\Projects\Demo_Pizza_shop\Console_pizza_shop\bin\Debug\normnfkd.nlp
